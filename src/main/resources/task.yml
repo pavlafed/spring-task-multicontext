@@ -1,0 +1,3 @@
+spring:
+  banner:
+    location: task-banner.txt

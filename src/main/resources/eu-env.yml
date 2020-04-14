@@ -1,0 +1,7 @@
+service:
+  region: eu
+  baseUrl: myservice-eu.pavlafed.com
+
+spring:
+  banner:
+    location: eu-banner.txt

@@ -1,0 +1,7 @@
+service:
+  region: na
+  baseUrl: myservice-na.pavlafed.com
+
+spring:
+  banner:
+    location: na-banner.txt
